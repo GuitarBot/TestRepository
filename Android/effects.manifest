@@ -1,12 +1,12 @@
 ManifestFileVersion: 0
-CRC: 587692813
+CRC: 975678402
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 304d646e21b8f1e5dfe276abd0703450
+    Hash: 7223dcdffde1e06ff04c2b1ecba983ea
   TypeTreeHash:
     serializedVersion: 2
-    Hash: 6822cfcfc598cd3543c2e0e7d1e49be3
+    Hash: f255a46d31491fd03efa10fe8210e844
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -23,6 +23,8 @@ ClassTypes:
   Script: {instanceID: 0}
 - Class: 114
   Script: {fileID: 11500000, guid: eb135905b4e32e942ba9d74c4a7f831a, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 6108053cb92b48deb7d09b6372c625df, type: 3}
 - Class: 115
   Script: {instanceID: 0}
 - Class: 198
@@ -35,5 +37,9 @@ Assets:
 - Assets/_TungusTactics/DynamicAssets/Resources/Effects/Status/Stun_Effect_Small.prefab
 - Assets/_TungusTactics/DynamicAssets/Resources/Effects/Status/Rage_Berserk_Large.prefab
 - Assets/_TungusTactics/DynamicAssets/Resources/Effects/Status/Rage_Berserk_Medium.prefab
+- Assets/_TungusTactics/DynamicAssets/Prefabs/Effects/Units/Resources/Spawn_Effect_Universal.prefab
+- Assets/_TungusTactics/DynamicAssets/Prefabs/Effects/Units/Resources/Hit_Range_Universal.prefab
 - Assets/_TungusTactics/DynamicAssets/Resources/Effects/Status/Stun_Effect_Medium.prefab
+- Assets/_TungusTactics/DynamicAssets/Prefabs/Effects/Units/Resources/Hit_Sword_Universal.prefab
+- Assets/_TungusTactics/DynamicAssets/Prefabs/Effects/Units/Resources/Dust_Trail_Universal.prefab
 Dependencies: []
