@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 2325498002
+CRC: 3832425705
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 4d7930948dd0d2aca42c1f95874878b8
+    Hash: 87d87e7c16fe1125a5f91a8976c5eea0
   TypeTreeHash:
     serializedVersion: 2
     Hash: 8383ba469824a2cb68f5727d97e76912
@@ -98,33 +98,33 @@ ClassTypes:
 - Class: 221
   Script: {instanceID: 0}
 Assets:
-- Assets/_Wargard/DynamicAssets/Prefabs/Units/Resources/afro-amazon_prefab.prefab
-- Assets/_Wargard/DynamicAssets/Prefabs/Units/Resources/med-syrarch_prefab.prefab
-- Assets/_Wargard/DynamicAssets/Prefabs/Units/Resources/pict-crossbowman_prefab.prefab
-- Assets/_Wargard/DynamicAssets/Prefabs/Units/Resources/afro-elephant_prefab.prefab
-- Assets/_Wargard/DynamicAssets/Prefabs/Units/Resources/rom-principes_prefab.prefab
-- Assets/_Wargard/DynamicAssets/Prefabs/Units/Resources/rom-sagittarius_prefab.prefab
-- Assets/_Wargard/DynamicAssets/Prefabs/Units/Resources/shu-infantry_prefab.prefab
-- Assets/_Wargard/DynamicAssets/Prefabs/Units/Resources/afro-neithprincess_prefab.prefab
-- Assets/_Wargard/DynamicAssets/Prefabs/Units/Resources/shu-rocketman_prefab.prefab
-- Assets/_Wargard/DynamicAssets/Prefabs/Units/Resources/wei-fly_prefab.prefab
-- Assets/_Wargard/DynamicAssets/Prefabs/Units/Resources/rom-peasanthorde_prefab.prefab
-- Assets/_Wargard/DynamicAssets/Prefabs/Units/Resources/afro-cohort_prefab.prefab
-- Assets/_Wargard/DynamicAssets/Prefabs/Units/Resources/hun-xianbei-cav_prefab.prefab
-- Assets/_Wargard/DynamicAssets/Prefabs/Units/Resources/afro-numedian_prefab.prefab
-- Assets/_Wargard/DynamicAssets/Prefabs/Units/Resources/shu-guardsman_prefab.prefab
-- Assets/_Wargard/DynamicAssets/Prefabs/Units/Resources/afro-garamant_prefab.prefab
-- Assets/_Wargard/DynamicAssets/Prefabs/Units/Resources/pict-cateran_prefab.prefab
-- Assets/_Wargard/DynamicAssets/Prefabs/Units/Resources/pict-fiann_prefab.prefab
-- Assets/_Wargard/DynamicAssets/Prefabs/Units/Resources/pict-skatah_prefab.prefab
-- Assets/_Wargard/DynamicAssets/Prefabs/Units/Resources/pict-chariot_prefab.prefab
-- Assets/_Wargard/DynamicAssets/Prefabs/Units/Resources/pict-blades_prefab.prefab
-- Assets/_Wargard/DynamicAssets/Prefabs/Units/Resources/wei-flame_prefab.prefab
-- Assets/_Wargard/DynamicAssets/Prefabs/Units/Resources/wu-stormtrp_prefab.prefab
-- Assets/_Wargard/DynamicAssets/Prefabs/Units/Resources/rom-clibanarius_prefab.prefab
-- Assets/_Wargard/DynamicAssets/Prefabs/Units/Resources/wu-grenadier_prefab.prefab
-- Assets/_Wargard/DynamicAssets/Prefabs/Units/Resources/rom-ballista_prefab.prefab
-- Assets/_Wargard/DynamicAssets/Prefabs/Units/Resources/hun-xianbei-sp_prefab.prefab
-- Assets/_Wargard/DynamicAssets/Prefabs/Units/Resources/shu-stonethrower_prefab.prefab
-- Assets/_Wargard/DynamicAssets/Prefabs/Units/Resources/pict-carnyx_prefab.prefab
+- Assets/_Wargard/DynamicAssets/Prefabs/Units/Resources-not-add-to-build/afro-amazon_prefab.prefab
+- Assets/_Wargard/DynamicAssets/Prefabs/Units/Resources-not-add-to-build/med-syrarch_prefab.prefab
+- Assets/_Wargard/DynamicAssets/Prefabs/Units/Resources-not-add-to-build/pict-crossbowman_prefab.prefab
+- Assets/_Wargard/DynamicAssets/Prefabs/Units/Resources-not-add-to-build/afro-elephant_prefab.prefab
+- Assets/_Wargard/DynamicAssets/Prefabs/Units/Resources-not-add-to-build/rom-principes_prefab.prefab
+- Assets/_Wargard/DynamicAssets/Prefabs/Units/Resources-not-add-to-build/rom-sagittarius_prefab.prefab
+- Assets/_Wargard/DynamicAssets/Prefabs/Units/Resources-not-add-to-build/shu-infantry_prefab.prefab
+- Assets/_Wargard/DynamicAssets/Prefabs/Units/Resources-not-add-to-build/afro-neithprincess_prefab.prefab
+- Assets/_Wargard/DynamicAssets/Prefabs/Units/Resources-not-add-to-build/shu-rocketman_prefab.prefab
+- Assets/_Wargard/DynamicAssets/Prefabs/Units/Resources-not-add-to-build/wei-fly_prefab.prefab
+- Assets/_Wargard/DynamicAssets/Prefabs/Units/Resources-not-add-to-build/rom-peasanthorde_prefab.prefab
+- Assets/_Wargard/DynamicAssets/Prefabs/Units/Resources-not-add-to-build/afro-cohort_prefab.prefab
+- Assets/_Wargard/DynamicAssets/Prefabs/Units/Resources-not-add-to-build/hun-xianbei-cav_prefab.prefab
+- Assets/_Wargard/DynamicAssets/Prefabs/Units/Resources-not-add-to-build/afro-numedian_prefab.prefab
+- Assets/_Wargard/DynamicAssets/Prefabs/Units/Resources-not-add-to-build/shu-guardsman_prefab.prefab
+- Assets/_Wargard/DynamicAssets/Prefabs/Units/Resources-not-add-to-build/afro-garamant_prefab.prefab
+- Assets/_Wargard/DynamicAssets/Prefabs/Units/Resources-not-add-to-build/pict-cateran_prefab.prefab
+- Assets/_Wargard/DynamicAssets/Prefabs/Units/Resources-not-add-to-build/pict-fiann_prefab.prefab
+- Assets/_Wargard/DynamicAssets/Prefabs/Units/Resources-not-add-to-build/pict-skatah_prefab.prefab
+- Assets/_Wargard/DynamicAssets/Prefabs/Units/Resources-not-add-to-build/pict-chariot_prefab.prefab
+- Assets/_Wargard/DynamicAssets/Prefabs/Units/Resources-not-add-to-build/pict-blades_prefab.prefab
+- Assets/_Wargard/DynamicAssets/Prefabs/Units/Resources-not-add-to-build/wei-flame_prefab.prefab
+- Assets/_Wargard/DynamicAssets/Prefabs/Units/Resources-not-add-to-build/wu-stormtrp_prefab.prefab
+- Assets/_Wargard/DynamicAssets/Prefabs/Units/Resources-not-add-to-build/rom-clibanarius_prefab.prefab
+- Assets/_Wargard/DynamicAssets/Prefabs/Units/Resources-not-add-to-build/wu-grenadier_prefab.prefab
+- Assets/_Wargard/DynamicAssets/Prefabs/Units/Resources-not-add-to-build/rom-ballista_prefab.prefab
+- Assets/_Wargard/DynamicAssets/Prefabs/Units/Resources-not-add-to-build/hun-xianbei-sp_prefab.prefab
+- Assets/_Wargard/DynamicAssets/Prefabs/Units/Resources-not-add-to-build/shu-stonethrower_prefab.prefab
+- Assets/_Wargard/DynamicAssets/Prefabs/Units/Resources-not-add-to-build/pict-carnyx_prefab.prefab
 Dependencies: []

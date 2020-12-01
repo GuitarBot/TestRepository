@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 1924395817
+CRC: 1647537855
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 636f121bf70d28882da1463a12639b6b
+    Hash: 63ae0baa0d1d7e52f610ea7e1d8f49c3
   TypeTreeHash:
     serializedVersion: 2
     Hash: 6a47c3c10b357e7e6c88e9b624576fa4
@@ -34,9 +34,14 @@ ClassTypes:
 Assets:
 - Assets/_Wargard/DynamicAssets/Resources/Effects/Status/Stun_Effect_Large.prefab
 - Assets/_Wargard/DynamicAssets/Resources/Effects/Status/Stun_Effect_Small.prefab
-- Assets/_Wargard/DynamicAssets/Prefabs/Effects/Units/Resources/Spawn_Effect_Universal.prefab
-- Assets/_Wargard/DynamicAssets/Prefabs/Effects/Units/Resources/Hit_Range_Universal.prefab
+- Assets/_Wargard/DynamicAssets/Resources/Effects/Status/Rage_Berserk_Elephant.prefab
+- Assets/_Wargard/DynamicAssets/Resources/Effects/Status/Rage_Berserk_Catapult_Balist.prefab
+- Assets/_Wargard/DynamicAssets/Prefabs/Effects/Units/Resources-not-build/Spawn_Effect_Universal.prefab
+- Assets/_Wargard/DynamicAssets/Resources/Effects/Status/Rage_Berserk_Chariot.prefab
+- Assets/_Wargard/DynamicAssets/Prefabs/Effects/Units/Resources-not-build/Hit_Range_Universal.prefab
+- Assets/_Wargard/DynamicAssets/Resources/Effects/Status/Rage_Berserk_On_HorseMan.prefab
 - Assets/_Wargard/DynamicAssets/Resources/Effects/Status/Stun_Effect_Medium.prefab
-- Assets/_Wargard/DynamicAssets/Prefabs/Effects/Units/Resources/Hit_Sword_Universal.prefab
-- Assets/_Wargard/DynamicAssets/Prefabs/Effects/Units/Resources/Dust_Trail_Universal.prefab
+- Assets/_Wargard/DynamicAssets/Prefabs/Effects/Units/Resources-not-build/Hit_Sword_Universal.prefab
+- Assets/_Wargard/DynamicAssets/Prefabs/Effects/Units/Resources-not-build/Dust_Trail_Universal.prefab
+- Assets/_Wargard/DynamicAssets/Resources/Effects/Status/Rage_Berserk_On_Unit.prefab
 Dependencies: []
